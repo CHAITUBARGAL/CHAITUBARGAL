@@ -10,24 +10,27 @@ Full Stack Developer | AWS Expert | MERN Stack
 
 ## 👨‍💻 About Me
 
-Full Stack Developer with 1.8 years of hands-on experience building responsive and dynamic web applications using React, JavaScript, Node.js, and PostgreSQL. Skilled in AWS cloud services, delivering scalable backend solutions, and creating seamless user experiences.
-
-I am passionate about frontend performance optimizations, backend API development, and leveraging AWS services like Lambda, API Gateway, DynamoDB, RDS, and S3. Experienced in CI/CD pipelines, secure authentication with Cognito, and modern development workflows.
+Full Stack Developer with 1.8 years of hands-on experience in React, JavaScript, Node.js, and PostgreSQL, along with experience in AWS, delivering responsive and dynamic user interfaces.
+Proficient in Frontend Development using React, Next.js, Redux Tailwind CSS, and Material UI, with performance optimizations via React Query, useMemo, useCallback, and lazy loading.
+Skilled in Backend API Development with Node.js and Express, building RESTful and WebSocket APIs, implementing JWT authentication, middleware, and CRUD operations with PostgreSQL and MongoDB.
+AWS expert with hands-on experience in Lambda, API Gateway,DynamoDB, RDS, and S3, skilled in CI/CD pipelines, EC2 deployments, Amplify hosting, and secure authentication via Cognito.
 
 ---
 
 ## 🔭 Current Work
 
 **Full Stack Developer** at Newtrace (Apr 2024 – Present)  
-- Developing dynamic user interfaces using ReactJS  
-- Implementing AWS backend solutions with Lambda and WebSocket APIs  
-- Hosting applications on AWS Amplify and securing user authentication with Cognito
+- Worked as a Full Stack Developer at Newtrace, leveraging ReactJS for building dynamic user interfaces.
+- Utilized AWS services for backend processes, including handling IoT Core data with Lambda functions and WebSocket APIs.
+- Displayed real-time data and plotted interactive graphs such as line charts, XY charts, and bar charts.
+- Stored historical data in AWS RDS, retrieved it via REST APIs, and visualized it using the lightweight TradingView charts library.
+- Hosted website on AWS Amplify for deployment and implemented User Register and Login with Amazon Cognito for Secure Authentication.
 
 ---
 
 ## 💼 Experience
 
-**Internship – Growth** at SuperBottoms (Oct 2023 – Dec 2023)  
+**– Growth** at SuperBottoms (Oct 2023 – Dec 2023)  
 - Managed website operations, optimized user experience  
 - Created promotional content and managed product listings
 
@@ -87,4 +90,4 @@ Feel free to reach out!
 
 ---
 
-Thanks for visiting my profile! 😊
+
