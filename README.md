@@ -1,16 +1,90 @@
-## Hi there 👋
+# Hi 👋, I'm Chetan Bargal
 
-<!--
-**CHAITUBARGAL/CHAITUBARGAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer | AWS Expert | MERN Stack  
+📍 Bangalore, India  
+📞 917796237673  
+✉️ chetan.bargal11@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/chetan-bargal-cb7673/) | 🔗 [GitHub](https://github.com/CHAITUBARGAL/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+Full Stack Developer with 1.8 years of hands-on experience building responsive and dynamic web applications using React, JavaScript, Node.js, and PostgreSQL. Skilled in AWS cloud services, delivering scalable backend solutions, and creating seamless user experiences.
+
+I am passionate about frontend performance optimizations, backend API development, and leveraging AWS services like Lambda, API Gateway, DynamoDB, RDS, and S3. Experienced in CI/CD pipelines, secure authentication with Cognito, and modern development workflows.
+
+---
+
+## 🔭 Current Work
+
+**Full Stack Developer** at Newtrace (Apr 2024 – Present)  
+- Developing dynamic user interfaces using ReactJS  
+- Implementing AWS backend solutions with Lambda and WebSocket APIs  
+- Hosting applications on AWS Amplify and securing user authentication with Cognito
+
+---
+
+## 💼 Experience
+
+**Internship – Growth** at SuperBottoms (Oct 2023 – Dec 2023)  
+- Managed website operations, optimized user experience  
+- Created promotional content and managed product listings
+
+**Full Stack Developer** at Kursor (Apr 2023 – Jul 2023)  
+- Developed the company website using ReactJS  
+- Built a browser extension integrating AI models (ChatGPT, Bing, BARD) for text summarization, grammar check, and translation  
+
+---
+
+## 🎓 Education
+
+**B.E. in Information Technology**  
+Savitribai Phule Pune University (2020 – 2024)  
+GPA: 8.62/10
+
+---
+
+## 🛠 Skills
+
+- Frontend: React, Next.js, Redux, Tailwind CSS, Material UI  
+- Backend: Node.js, Express, REST & WebSocket APIs, JWT Authentication  
+- Databases: PostgreSQL, MongoDB, DynamoDB, RDS  
+- AWS: Lambda, API Gateway, S3, EC2, Amplify, Cognito  
+- Tools & Others: Git, CI/CD pipelines, Python
+
+---
+
+## 📜 Certifications
+
+- [HTML, CSS, and JavaScript for Web Developers](https://coursera.org/share/b55a46e670b25ec1621145d8a8290732)  
+- [Developing Front-End Apps With React](https://coursera.org/share/b9a33a1d761531292f3ec40418056221)
+
+---
+
+## 🚀 Projects
+
+**Doctor Appointment Booking App**  
+[Live Demo](https://doctor-appointment-nextjs.vercel.app)  
+Built with Next.js, React, Tailwind CSS. Features calendar scheduling, appointment management, and secure authentication with Kind.
+
+**Car Showcase**  
+[Live Demo](https://nextjs-cars-showcase-rouge.vercel.app)  
+Responsive app built in Next.js for showcasing car models with fast, user-friendly navigation and search.
+
+**Portfolio Website**  
+[Live Demo](https://chetan-portfolio-chetan.vercel.app)  
+Personal portfolio built with React and CSS, showcasing projects, experience, and skills with reusable components and modern design.
+
+---
+
+## 📫 Contact Me
+
+Feel free to reach out!  
+- Email: chetan.bargal11@gmail.com  
+- LinkedIn: [chetan-bargal-cb7673](https://www.linkedin.com/in/chetan-bargal-cb7673/)  
+- GitHub: [CHAITUBARGAL](https://github.com/CHAITUBARGAL/)
+
+---
+
+Thanks for visiting my profile! 😊
